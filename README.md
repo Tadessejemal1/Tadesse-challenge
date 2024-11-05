@@ -30,12 +30,13 @@ This React application facilitates role management within a platform, specifical
 
 3. **Install dependencies**:
 
-```bash npm install
-
+```sh
+ npm install
+```
 
 4. **Run the application**:
 
-```bash npm install
+```bash npm install ```bash
 
 ## Usage
 
