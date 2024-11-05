@@ -20,7 +20,7 @@ This React application facilitates role management within a platform, specifical
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repository/cloud-book-writer.git
+   git clone https://github.com/cloud-book-writer.git
 
 
 2. **Navigate to the project directory**:
