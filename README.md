@@ -24,9 +24,9 @@ This React application facilitates role management within a platform, specifical
 
 
 2. **Navigate to the project directory**:
-
-
- bash cd cloud-book-writer
+```sh
+  cd cloud-book-writer
+```
 
 3. **Install dependencies**:
 
