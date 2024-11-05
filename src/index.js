@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App'; // Main application component
 import './index.css'; // Tailwind CSS styles
 import { BrowserRouter } from 'react-router-dom'; // For routing
-import AuthProvider from './context/AuthContext'; // Authentication context provider
+import { AuthProvider } from './context/AuthContext';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
